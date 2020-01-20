@@ -18,3 +18,17 @@
 .hero__title{
 	color: #1e1e1e;
 }
+
+.footer-wrap{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+	-ms-align-items: center;
+	align-items: center;
+}
+.footer__block{
+	flex-basis: 30%;
+}
