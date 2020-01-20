@@ -11,3 +11,10 @@
 .nav li{
 	margin: 0 7px;
 }
+
+.hero{
+	background-color: #eee;
+}
+.hero__title{
+	color: #1e1e1e;
+}
